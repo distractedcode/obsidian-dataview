@@ -34,7 +34,7 @@ export async function replaceInlineFields(ctx: MarkdownPostProcessorContext, ini
 
             renderContainer.createSpan({
                 cls: ["dataview", "inline-field-value"],
-                attr: { 
+                attr: {
                     id: "dataview-inline-field-" + x,
                     "data-dv-value": field.value,
                     "data-dv-norm-value": canonicalizeVarName(field.value),
