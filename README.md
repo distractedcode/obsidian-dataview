@@ -4,8 +4,6 @@ Is this safe? Is this proper? Probably not. Are there other cases that i have mi
 
 I don't know Javascript. I just copied what the key field did, and it seems to work. Have fun with this.. if you use it.
 
-ngl idk how to setup BRAT and i am doing this at 2am soooo ... but it has a release, so just manually install it i guess, or build it. your choice.
-
 # Obsidian Dataview
 
 Treat your [Obsidian Vault](https://obsidian.md/) as a database which you can query from. Provides a JavaScript API and
