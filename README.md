@@ -1,3 +1,9 @@
+IDK where to put this but.. this repo is likely never getting updated LOL. Its a fork for a small change I made for my own css and use case.
+Whats the change? Adding attributes for `inline-field-value` mimicing `inline-field-key`, because apparently whoever added attributes didn't do it for values .. oh well. Changed `/src/ui/views/inline-field-live-preview.ts` and `src/ui/views/inline-field.tsx`.
+Is this safe? Is this proper? Probably not. Are there other cases that i have missed by doing this? Probably. Will this changed? Likely not.
+
+I don't know Javascript. I just copied what the key field did, and it seems to work. Have fun with this.. if you use it.
+
 # Obsidian Dataview
 
 Treat your [Obsidian Vault](https://obsidian.md/) as a database which you can query from. Provides a JavaScript API and
